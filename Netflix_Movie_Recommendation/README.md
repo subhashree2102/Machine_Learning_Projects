@@ -12,7 +12,7 @@ This project implements a Netflix movie recommendation system using Singular Val
 - Evaluates accuracy using Mean Squared Error (MSE)
 
 ## Usage
-1. Load `netflix_titles.csv` containing movie data.
+1. Load the dataset containing netflix movie data.
 2. Generate a random user-item rating matrix.
 3. Apply SVD to extract meaningful patterns.
 4. Predict user ratings by reconstructing the matrix.
