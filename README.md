@@ -13,11 +13,6 @@ The system uses the following datasets:
 - **Personalized Movie Recommendations**: Suggests top-rated movies for a given user based on predicted ratings.
 - **Evaluation Metrics**:
   - **Root Mean Square Error (RMSE)** to assess prediction accuracy.
-  - **Prediction Error Distribution** to visualize error spread.
-- **Data Visualizations**:
-  - **Explained Variance Plot**: Shows the impact of SVD components.
-  - **Error Distribution Plot**: Displays prediction errors using a histogram with KDE.
-  - **User-Movie Correlation Heatmap**: Highlights patterns in user interactions.
 
 ## Usage
 To use the recommendation system, follow these steps:
