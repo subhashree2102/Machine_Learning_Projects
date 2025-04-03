@@ -19,7 +19,7 @@ To use the recommendation system, follow these steps:
 1. Load and preprocess the dataset.
 2. Train the model using SVD.
 3. Generate personalized movie recommendations.
-4. Evaluate and visualize the results.
+4. Evaluate the results.
    
 ## Evaluation
 - **RMSE Calculation**: Measures the difference between actual and predicted ratings.
